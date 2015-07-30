@@ -1,6 +1,6 @@
 {
   "name": "typp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discover which type of app",
   "main": "index.js",
   "scripts": {
