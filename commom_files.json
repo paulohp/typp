@@ -1,0 +1,24 @@
+{
+  "root":[
+    {
+      "file_name": "package.json",
+      "application_type": "Node.js"
+    },
+    {
+      "file_name": "Gemfile",
+      "application_type": "Ruby"
+    },
+    {
+      "file_name": "composer.json",
+      "application_type": "PHP"
+    },
+    {
+      "file_name": "Gruntfile.js",
+      "application_type": "Grunt"
+    },
+    {
+      "file_name": "Gulpfile.js",
+      "application_type": "Gulp"
+    }
+  ]
+}
